@@ -3,6 +3,7 @@
   {"name": "!props", "usage": "!props <target>", "description": "Give love to the target, displays the twitch URL (for shoutouts to non-streamers who are awesome"},
   {"name": "!18", "usage": "!18", "description": "A reminder that the stream is rated 18+ (moan)"},
   {"name": "!age", "usage": "!age", "description": "A more PG reminder that it's an 18+ stream (compared to !18)"},
+  {"name": "!cleanit", "usage": "!cleanit", "description": "A plea for Otto to CLEAN HIS DAMN BONG!"},
   {"name": "!heylisten", "usage": "!heylisten", "description": "For mods to catch Otto's attention"},
   {"name": "!back", "usage": "!back", "description": "Lets the stream know that Otto will be right back, he is stretching"},
   {"name": "!rage+", "usage": "!rage+", "description": "Increments the rage quit counter"},
