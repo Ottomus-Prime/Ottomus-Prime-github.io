@@ -364,6 +364,7 @@ hoss00312_far
 hoss00312_fear
 hoss00312_fearful
 hoss00312_fertile
+hoss00312_fetc
 hoss00312_fetch
 hoss00312_film
 hoss00312_fine
@@ -698,6 +699,7 @@ hoss00312_wipe_hype_
 hoss00312_wobble
 hoss00312_wool
 hoss00312_worm
+hoss00312_wr
 hoss00312_wrathful
 hoss00312_wry
 hoss00312_xxxxx
