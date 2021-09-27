@@ -304,6 +304,7 @@ hoss00312_cant_stop
 hoss00312_cap
 hoss00312_card
 hoss00312_certain
+hoss00312_certian
 hoss00312_change
 hoss00312_cheese
 hoss00312_cherries
@@ -316,6 +317,7 @@ hoss00312_club
 hoss00312_coat
 hoss00312_coll_twitch_
 hoss00312_color
+hoss00312_commitee
 hoss00312_committee
 hoss00312_communicate
 hoss00312_confess
