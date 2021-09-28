@@ -200,6 +200,7 @@ ho0114
 ho03012ss
 ho0chy__
 ho0kup
+hoss
 hoss 2002
 hoss_______00312
 hoss____00312
@@ -230,6 +231,7 @@ hoss00312____
 hoss00312_____
 hoss00312_______
 hoss00312___________
+hoss00312____________
 hoss00312______________
 hoss00312_____jus
 hoss00312_____real
@@ -257,11 +259,13 @@ hoss00312_ablaze
 hoss00312_aboard
 hoss00312_abroad
 hoss00312_abstracted
+hoss00312_abusive
 hoss00312_accurate
 hoss00312_activity
 hoss00312_adorable
 hoss00312_advice
 hoss00312_advise
+hoss00312_afits
 hoss00312_again
 hoss00312_airport
 hoss00312_ajar
@@ -291,6 +295,7 @@ hoss00312_behavior
 hoss00312_behavior 
 hoss00312_belief
 hoss00312_beneficial
+hoss00312_bewildered
 hoss00312_big_gains
 hoss00312_bittenichtsperr
 hoss00312_black
@@ -303,9 +308,11 @@ hoss00312_buttlicker
 hoss00312_cant_stop
 hoss00312_cap
 hoss00312_card
+hoss00312_carpenter
 hoss00312_certain
 hoss00312_certian
 hoss00312_change
+hoss00312_chase
 hoss00312_cheese
 hoss00312_cherries
 hoss00312_chilly
@@ -327,8 +334,10 @@ hoss00312_contain
 hoss00312_covid
 hoss00312_credit
 hoss00312_crowded
+hoss00312_cub
 hoss00312_cumbersome
 hoss00312_curly
+hoss00312_cycle
 hoss00312_decent
 hoss00312_dedsnator
 hoss00312_deeply
@@ -344,6 +353,7 @@ hoss00312_divergent
 hoss00312_dontban
 hoss00312_dontbanme
 hoss00312_double
+hoss00312_doubtful
 hoss00312_drab
 hoss00312_drawer
 hoss00312_efficient
@@ -359,6 +369,7 @@ hoss00312_exciting
 hoss00312_expect
 hoss00312_extralarge
 hoss00312_eyes
+hoss00312_faithful
 hoss00312_fancy
 hoss00312_fandesmallpp
 hoss00312_fantastic
@@ -368,6 +379,7 @@ hoss00312_fearful
 hoss00312_fertile
 hoss00312_fetc
 hoss00312_fetch
+hoss00312_fierce
 hoss00312_film
 hoss00312_fine
 hoss00312_first
@@ -424,7 +436,9 @@ hoss00312_helpful
 hoss00312_helpless
 hoss00312_hey_nick_
 hoss00312_hiflightzilla
+hoss00312_highfalutin
 hoss00312_hop
+hoss00312_hospital
 hoss00312_hoss00312
 hoss00312_host
 hoss00312_hypnotic
@@ -435,6 +449,7 @@ hoss00312_ihaveyourinfo
 hoss00312_iiiiiiiiiiiiiii
 hoss00312_iiiiiiiiiiiiiil
 hoss00312_iliveinabasement
+hoss00312_imminent
 hoss00312_impulse
 hoss00312_income
 hoss00312_innocent
@@ -462,6 +477,7 @@ hoss00312_jewel
 hoss00312_jittery
 hoss00312_jobless
 hoss00312_joyous
+hoss00312_joyouus
 hoss00312_judge
 hoss00312_jump
 hoss00312_jus
@@ -514,6 +530,7 @@ hoss00312_multiply
 hoss00312_murder
 hoss00312_mute
 hoss00312_natural
+hoss00312_naughty
 hoss00312_neat
 hoss00312_nebulous
 hoss00312_new
@@ -540,6 +557,7 @@ hoss00312_picture
 hoss00312_pipe
 hoss00312_plane
 hoss00312_plastic
+hoss00312_plot
 hoss00312_plug
 hoss00312_pog
 hoss00312_pogchamp
@@ -557,6 +575,7 @@ hoss00312_pure
 hoss00312_quarter
 hoss00312_quater
 hoss00312_queue
+hoss00312_quicksand
 hoss00312_raid
 hoss00312_rake
 hoss00312_raspy
@@ -571,6 +590,7 @@ hoss00312_reeeeee
 hoss00312_religion
 hoss00312_remarkable
 hoss00312_remove_follow
+hoss00312_report
 hoss00312_request
 hoss00312_resonant
 hoss00312_restart
@@ -587,6 +607,8 @@ hoss00312_rude
 hoss00312_run
 hoss00312_runner
 hoss00312_rvg
+hoss00312_sable
+hoss00312_sad
 hoss00312_same
 hoss00312_satisfying
 hoss00312_saw
@@ -609,6 +631,7 @@ hoss00312_sky
 hoss00312_sloppy
 hoss00312_smell
 hoss00312_smooth
+hoss00312_snails
 hoss00312_sniff
 hoss00312_soak
 hoss00312_soap
@@ -617,9 +640,12 @@ hoss00312_sound
 hoss00312_spams
 hoss00312_sparkle
 hoss00312_sparkle 
+hoss00312_spiky
 hoss00312_sponge
 hoss00312_spy
 hoss00312_stamp
+hoss00312_standing
+hoss00312_station
 hoss00312_statuesque
 hoss00312_stay
 hoss00312_sticks
@@ -690,6 +716,7 @@ hoss00312_watch_me
 hoss00312_water
 hoss00312_wax
 hoss00312_wealth
+hoss00312_weigh
 hoss00312_weight
 hoss00312_whine
 hoss00312_whistle
@@ -701,6 +728,7 @@ hoss00312_wipe_hype_
 hoss00312_wobble
 hoss00312_wool
 hoss00312_worm
+hoss00312_worthless
 hoss00312_wr
 hoss00312_wrathful
 hoss00312_wry
