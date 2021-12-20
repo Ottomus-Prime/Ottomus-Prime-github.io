@@ -4,5 +4,6 @@
   {"name": "!ohmy", "usage": "!ohmy", "description": "Plays the 'Oh My' sound clip"},
   {"name": "!right", "usage": "!right", "description": "Plays the 'Fuckin Rights Bud' sound clip"},
   {"name": "!uwu", "usage": "!uwu", "description": "Plays the 'UwU' sound clip"},
-  {"name": "!420", "usage": "!420", "description": "Disclaimer that Otto is having a smoke"}
+  {"name": "!420", "usage": "!420", "description": "Disclaimer that Otto is having a smoke"},
+  {"name": "!batty", "usage": "!batty", "description": "Plays the 'Batty' sound clip"}
 ]
