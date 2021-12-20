@@ -38,5 +38,6 @@
   {"name": "!waitwhat+", "usage": "!waitwhat+", "description": "Increments the !waitwhat counter"},
   {"name": "!quote", "usage": "!quote || !quote <number>", "description": "Display a random quote || display a quote by its number"},
   {"name": "!tophours", "usage": "!tophours", "description": "Display the top viewers based on hours watched"},
-  {"name": "!death", "usage": "!death", "description": "Display current number of deaths on the death counter"}
+  {"name": "!death", "usage": "!death", "description": "Display current number of deaths on the death counter"},
+  {"name": "!glue", "usage": "!glue", "description": "Displays the amount of horses Otto has killed in RDR2"}
 ]
