@@ -10,8 +10,15 @@
     <title>Otto's Chat Commands</title>
     <script type="text/javascript">
         $.getJSON("/data/user-commands.json", function(data) {
-          var html='';
-          $.each(data, function(key, value){
+            var html='';
+            html+='<thead>';
+            html+='<tr>';
+            html+='<th>COMMAND</th>';
+            html+='<th>USAGE</th>';
+            html+='<th>DESCRIPTION</th>';
+            html+='</tr>';
+            html+='</thead>';
+            $.each(data, function(key, value){
             html+='<tr>';
             html+='<td>'+value.name+'</td>';
             html+='<td><xmp>'+value.usage+'</xmp></td>';
