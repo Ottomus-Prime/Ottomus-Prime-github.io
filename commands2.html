@@ -8,6 +8,17 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script type="text/javascript" src="/scripts/getData.js"></script>
+    <style>
+        .nav-pills .nav-link {
+        background-color: black;
+        color: white;
+        border-radius:10px;
+        border: 1px solid white;
+      }
+        .nav-pills .nav-link:hover{
+  	    background-color: gray;
+	    }
+    </style>
     
     <title>Otto's Chat Commands</title>
     <!-- Coded by Kenesti -->
@@ -16,6 +27,14 @@
 <body>
     
     <div class="container-fluid p-5 bg-black text-white text-center">
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="pill" href="#gear">Gear</a>
+            </li>
+        </ul>
         <h1>Otto's Chat Commands</h1>
     </div>
 
