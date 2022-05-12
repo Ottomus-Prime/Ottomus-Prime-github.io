@@ -29,6 +29,46 @@
           html+='</tbody>';
           $('#user-commands').html(html);
         });
+        $.getJSON("/data/sub-commands.json", function(data) {
+            var html='';
+            html+='<thead>';
+            html+='<tr>';
+            html+='<th>COMMAND</th>';
+            html+='<th>USAGE</th>';
+            html+='<th>DESCRIPTION</th>';
+            html+='</tr>';
+            html+='</thead>';
+            html+='<tbody>';
+            $.each(data, function(key, value){
+            html+='<tr>';
+            html+='<td>'+value.name+'</td>';
+            html+='<td><xmp>'+value.usage+'</xmp></td>';
+            html+='<td>'+value.description+'</td>';
+            html+='</tr>';
+          });
+          html+='</tbody>';
+          $('#sub-commands').html(html);
+        });
+        $.getJSON("/data/mod-commands.json", function(data) {
+            var html='';
+            html+='<thead>';
+            html+='<tr>';
+            html+='<th>COMMAND</th>';
+            html+='<th>USAGE</th>';
+            html+='<th>DESCRIPTION</th>';
+            html+='</tr>';
+            html+='</thead>';
+            html+='<tbody>';
+            $.each(data, function(key, value){
+            html+='<tr>';
+            html+='<td>'+value.name+'</td>';
+            html+='<td><xmp>'+value.usage+'</xmp></td>';
+            html+='<td>'+value.description+'</td>';
+            html+='</tr>';
+          });
+          html+='</tbody>';
+          $('#mod-commands').html(html);
+        });
     </script>
 </head>
 <body>
@@ -41,20 +81,7 @@
         <p>Chat commands that are available to any user.</p>
         <button type="button" class="btn btn-dark" data-bs-toggle="collapse" data-bs-target="#user-commands">Click to expand/collapse</button>           
         <table class="table table-striped collapse" id="user-commands">
-          <thead>
-            <tr>
-              <th>Firstname</th>
-              <th>Lastname</th>
-              <th>Email</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>John</td>
-              <td>Doe</td>
-              <td>john@example.com</td>
-            </tr>
-          </tbody>
+          <!-- Content Dynamically filled by JQuery-->
         </table>
       </div>
 
@@ -63,30 +90,7 @@
         <p>Chat commands that are only available to Otto's subscribers</p>
         <button type="button" class="btn btn-dark" data-bs-toggle="collapse" data-bs-target="#sub-commands">Click to expand/collapse</button>               
         <table class="table table-striped collapse" id="sub-commands">
-          <thead>
-            <tr>
-              <th>Command</th>
-              <th>Usage</th>
-              <th>Description</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>John</td>
-              <td>Doe</td>
-              <td>john@example.com</td>
-            </tr>
-            <tr>
-              <td>Mary</td>
-              <td>Moe</td>
-              <td>mary@example.com</td>
-            </tr>
-            <tr>
-              <td>July</td>
-              <td>Dooley</td>
-              <td>july@example.com</td>
-            </tr>
-          </tbody>
+          <!-- Content Dynamically filled by JQuery-->
         </table>
       </div>
 
@@ -95,30 +99,7 @@
         <p>These commands are only available to Otto's moderators</p>  
         <button type="button" class="btn btn-dark" data-bs-toggle="collapse" data-bs-target="#mod-commands">Click to expand/collapse</button>            
         <table class="table table-striped collapse" id="mod-commands">
-          <thead>
-            <tr>
-              <th>Firstname</th>
-              <th>Lastname</th>
-              <th>Email</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>John</td>
-              <td>Doe</td>
-              <td>john@example.com</td>
-            </tr>
-            <tr>
-              <td>Mary</td>
-              <td>Moe</td>
-              <td>mary@example.com</td>
-            </tr>
-            <tr>
-              <td>July</td>
-              <td>Dooley</td>
-              <td>july@example.com</td>
-            </tr>
-          </tbody>
+          <!-- Content Dynamically filled by JQuery-->
         </table>
       </div>
 
