@@ -8,70 +8,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <title>Otto's Chat Commands</title>
-    <script type="text/javascript">
-        $.getJSON("/data/user-commands.json", function(data) {
-            var html='';
-            html+='<thead>';
-            html+='<tr>';
-            html+='<th>COMMAND</th>';
-            html+='<th>USAGE</th>';
-            html+='<th>DESCRIPTION</th>';
-            html+='</tr>';
-            html+='</thead>';
-            html+='<tbody>';
-            $.each(data, function(key, value){
-            html+='<tr>';
-            html+='<td>'+value.name+'</td>';
-            html+='<td><xmp>'+value.usage+'</xmp></td>';
-            html+='<td>'+value.description+'</td>';
-            html+='</tr>';
-          });
-          html+='</tbody>';
-          $('#user-commands').html(html);
-        });
-        $.getJSON("/data/sub-commands.json", function(data) {
-            var html='';
-            html+='<thead>';
-            html+='<tr>';
-            html+='<th>COMMAND</th>';
-            html+='<th>USAGE</th>';
-            html+='<th>DESCRIPTION</th>';
-            html+='</tr>';
-            html+='</thead>';
-            html+='<tbody>';
-            $.each(data, function(key, value){
-            html+='<tr>';
-            html+='<td>'+value.name+'</td>';
-            html+='<td><xmp>'+value.usage+'</xmp></td>';
-            html+='<td>'+value.description+'</td>';
-            html+='</tr>';
-          });
-          html+='</tbody>';
-          $('#sub-commands').html(html);
-        });
-        $.getJSON("/data/mod-commands.json", function(data) {
-            var html='';
-            html+='<thead>';
-            html+='<tr>';
-            html+='<th>COMMAND</th>';
-            html+='<th>USAGE</th>';
-            html+='<th>DESCRIPTION</th>';
-            html+='</tr>';
-            html+='</thead>';
-            html+='<tbody>';
-            $.each(data, function(key, value){
-            html+='<tr>';
-            html+='<td>'+value.name+'</td>';
-            html+='<td><xmp>'+value.usage+'</xmp></td>';
-            html+='<td>'+value.description+'</td>';
-            html+='</tr>';
-          });
-          html+='</tbody>';
-          $('#mod-commands').html(html);
-        });
-    </script>
+    <script type="text/javascript" src="/scripts/getData.js"></script>
 </head>
+    
 <body>
+    
     <div class="container-fluid p-5 bg-black text-white text-center">
         <h1>Otto's Chat Commands</h1>
     </div>
