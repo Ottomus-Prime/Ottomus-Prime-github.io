@@ -1,0 +1,31 @@
+Idea:
+  Implementing a commands page that has the ability to allow mods/streamer to add/remove commands, 
+  rather than having the editing process work solely through JSON files.
+  
+Requirements:
+  Converting existing project to NodeJS, and deployment using a service like Heroku
+  Use EJS templating system for dynamic content rendering (maybe replace the jquery?)
+  (use MVC model and be a PITA? or keep it simple?)
+
+Overview:
+  Main commands page (displays commands via jquery and json files) (done, old style)
+  Admin page (add/remove commands via POST requests that send data to NodeJS)
+  
+Notes:
+   Want to implement some form of security measure, such as a user/pass login system (but would require database format),
+   or even just a passcode entry system (don't want to make it easy for someone to deface or delete stuff)
+  
+ #---------------#
+  
+  Root Folder:
+      --> public folder - holds files for public serves
+          --> css folder - holds css files responsible for page styling
+          --> data folder - holds json files that store command data
+          --> scripts folder - holds script files (maybe replace by using ejs)
+      --> routes folder - holds js files responsible for routing
+          --> admin.js - route responsible for handling admin paths and views
+          --> commands.js - route responsible for handling commands path and view
+      --> views folder - holds ejs files responsible for html page generation
+          --> admin.ejs - admin page html & logic
+          --> commands.ejs - commands page html & logic
+      --> app.js - responsible for spinning up the server, calling routes
