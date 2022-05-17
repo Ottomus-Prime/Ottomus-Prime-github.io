@@ -4,7 +4,7 @@
 		"usage": "!18",
 		"description": "A reminder that the stream is rated 18+ (moan)"
 	},
-  {
+  	{
 		"name": "!420",
 		"usage": "!420",
 		"description": "Erryday"
@@ -89,7 +89,7 @@
 		"usage": "!heylisten",
 		"description": "For mods to catch Otto's attention"
 	},
-  {
+  	{
 		"name": "!hydrate",
 		"usage": "!hydrate",
 		"description": "Let's everyone know to hydrate"
@@ -109,7 +109,7 @@
 		"usage": "!quoteremove <number>",
 		"description": "Remove a quote through chat"
 	},
-  {
+  	{
 		"name": "!rage+",
 		"usage": "!rage+",
 		"description": "Increases the rage counter, for when Otto gets the big mad and quits a game"
@@ -134,22 +134,22 @@
 		"usage": "!so <target>",
 		"description": "Shout out to the target viewer, diisplaying stream link and last played game"
 	},
-  {
+  	{
 		"name": "!slice+",
 		"usage": "!slice+",
 		"description": "(Ghost of Tsushima) Increases the Nobu cut counter"
 	},
-  {
+  	{
 		"name": "!stretch",
 		"usage": "!stretch",
 		"description": "Reminds Otto that it's about time for a stretch"
 	},
-  {
+  	{
 		"name": "!victory",
 		"usage": "!victory",
 		"description": "For the greatest, and smallest of achievements"
 	},
-  {
+  	{
 		"name": "!waitwhat+",
 		"usage": "!waitwhat+",
 		"description": "Increases the waitwhat counter (when someone remembers to)"
