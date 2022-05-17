@@ -4,62 +4,62 @@
 		"usage": "!batty",
 		"description": "Plays the 'Batty' sound clip"
 	},
-  {
+  	{
 		"name": "!bed",
 		"usage": "!bed",
 		"description": "Put a fellow ottobot to bed. Goodnight!"
 	},
-  {
+  	{
 		"name": "!boost",
 		"usage": "!boost",
 		"description": "A cheer for when we have the 'Boost the Stream' community challenge"
 	},
-  {
+  	{
 		"name": "!break",
 		"usage": "!break",
 		"description": "Lets everyone know where Otto went when he's on break"
 	},
-  {
+  	{
 		"name": "!brush",
 		"usage": "!brush",
 		"description": "Bah-rush me!"
 	},
-  {
+  	{
 		"name": "!chef",
 		"usage": "!chef",
 		"description": "Chef Squad! Ah-ah-ah...."
 	},
-  {
+  	{
 		"name": "!continue",
 		"usage": "!continue",
 		"description": "Command for continuing the game (generally Words on Stream) when Otto is away"
 	},
-  {
+  	{
 		"name": "!dance",
 		"usage": "!dance",
 		"description": "I see you like to dance...."
 	},
-  {
+  	{
 		"name": "!dance2",
 		"usage": "!dance2",
 		"description": "....I too like to dance...."
 	},
-  {
+  	{
 		"name": "!dance3",
 		"usage": "!dance3",
 		"description": "...so everybody let's dance!"
 	},
-  {
+  	{
 		"name": "!dinneyland",
 		"usage": "!dinneyland",
 		"description": "Until Otto takes us all to Dinneyland...."
 	},
-  {
+  	{
 		"name": "!discord",
 		"usage": "!discord",
 		"description": "Displays a link to Otto's Discord"
 	},
-  {
+  	{
 		"name": "!eww",
 		"usage": "!eww",
 		"description": "A reminder that Otto's bong is gross and dirty, and that he should clean it"
@@ -69,7 +69,7 @@
 		"usage": "!forsure",
 		"description": "Plays the 'For Sure' sound clip"
 	},
-  {
+  	{
 		"name": "!giggity",
 		"usage": "!giggity",
 		"description": "For use when someone says something inappropriate but you kinda like it"
@@ -79,7 +79,7 @@
 		"usage": "!hello",
 		"description": "Plays the 'Hello Motherfucker' sound clip"
 	},
-  {
+  	{
 		"name": "!host",
 		"usage": "!host",
 		"description": "The hottie host train"
@@ -89,7 +89,7 @@
 		"usage": "!ohmy",
 		"description": "Plays the 'Oh My' sound clip"
 	},
-  {
+  	{
 		"name": "!queue",
 		"usage": "!queue",
 		"description": "A reminder to join the queue when Otto is playing games with the community"
@@ -99,17 +99,17 @@
 		"usage": "!right",
 		"description": "Plays the 'Fuckin Rights Bud' sound clip"
 	},
-  {
+ 	 {
 		"name": "!stab",
 		"usage": "!stab <target>",
 		"description": "Stab the given target, which is totally not nice and generally frowned upon"
 	},
-  {
+  	{
 		"name": "!subathon",
 		"usage": "!subathon",
 		"description": "Info about subathon times"
 	},
-  {
+  	{
 		"name": "!tangled",
 		"usage": "!tangled",
 		"description": "A command from the days of yore, when certain ottobots would give Otto crap for not seeing the movie Tangled"
