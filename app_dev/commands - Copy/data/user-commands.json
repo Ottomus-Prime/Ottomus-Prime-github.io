@@ -1,0 +1,342 @@
+[
+    {
+        "name": "!ban",
+        "usage": "!ban <target>",
+        "description": "Bans the target viewer (not really)"
+    },
+    {
+        "name": "!bttv",
+        "usage": "!bttv",
+        "description": "Displays info for viewers to get the bttv emotes"
+    },
+    {
+        "name": "!burn",
+        "usage": "!burn",
+        "description": "For use when someone lays down a sick burn"
+    },
+  {
+        "name": "!buttthrone",
+        "usage": "!buttthrone",
+        "description": "Otto's massive chair"
+    },
+  {
+        "name": "!cg",
+        "usage": "!cg",
+        "description": "Displays insformation for chatguesser (if Otto is playing it)"
+    },
+  {
+        "name": "!chair",
+        "usage": "!chair",
+        "description": "Otto's Chair"
+    },
+  {
+        "name": "!chat",
+        "usage": "!chat",
+        "description": "Displays chat rules"
+    },
+    {
+        "name": "!cheers",
+        "usage": "!cheers",
+        "description": "Cheers!"
+    },
+    {
+        "name": "!commands",
+        "usage": "!commands",
+        "description": "Displays the list of commands"
+    },
+    {
+        "name": "!cult",
+        "usage": "!cult",
+        "description": "The 'cult' disclaimer"
+    },
+    {
+        "name": "!death",
+        "usage": "!death",
+        "description": "Display current number of deaths on the death counter"
+    },
+    {
+        "name": "!dixper",
+        "usage": "!dixper",
+        "description": "Displays information dixper so chat can mess with Otto's games (when enabled)"
+    },
+    {
+        "name": "!donate",
+        "usage": "!donate",
+        "description": "Displays the link to send otto a tip"
+    },
+    {
+        "name": "!fingerguns",
+        "usage": "!fingerguns",
+        "description": "(☞ﾟヮﾟ)☞"
+    },
+    {
+        "name": "!fliptable",
+        "usage": "!fliptable",
+        "description": "(╯°□°)╯︵ ┻━┻"
+    },
+    {
+        "name": "!followage",
+        "usage": "!followage",
+        "description": "Displays the amount of days you've been following"
+    },
+    {
+        "name": "!follows",
+        "usage": "!follows",
+        "description": "Displays the current number of followers"
+    },
+  {
+        "name": "!frames",
+        "usage": "!frames",
+        "description": "Help otto out by picking up some of those dropped frames"
+    },
+    {
+        "name": "!games",
+        "usage": "!games",
+        "description": "Displays a link to Otto's game list"
+    },
+    {
+        "name": "!glue",
+        "usage": "!glue",
+        "description": "Displays the amount of horses Otto has killed in RDR2"
+    },
+  {
+        "name": "!goblin",
+        "usage": "!goblin",
+        "description": "Promote goblin for partner! Yay dad!"
+    },
+  {
+        "name": "!hover",
+        "usage": "!hover",
+        "description": "Have a Hover account? Check Otto out on Hover!"
+    },
+    {
+        "name": "!hug",
+        "usage": "!hug <target>",
+        "description": "Give the target viewer a hug!"
+    },
+  {
+        "name": "!hype",
+        "usage": "!hype",
+        "description": "Let's get this hype going!"
+    },
+  {
+        "name": "!ig",
+        "usage": "!ig",
+        "description": "Follow Otto on Instagram!"
+    },
+    {
+        "name": "!lick",
+        "usage": "!lick <target>",
+        "description": "Lick the target viewer"
+    },
+  {
+        "name": "!lore",
+        "usage": "!lore",
+        "description": "What quote was the one about lore again?"
+    },
+    {
+        "name": "!love",
+        "usage": "!love",
+        "description": "Tell Otto you love him!"
+    },
+    {
+        "name": "!lurk",
+        "usage": "!lurk",
+        "description": "Announce the desire to lurk"
+    },
+    {
+        "name": "!meds",
+        "usage": "!meds",
+        "description": "A reminder for everyone to take their meds"
+    },
+  {
+        "name": "!memory",
+        "usage": "!memory",
+        "description": "What was this command for? I forget...."
+    },
+  {
+        "name": "!merch",
+        "usage": "!merch",
+        "description": "Otto has merch? Why yes, yes he does!"
+    },
+    {
+        "name": "!mind",
+        "usage": "!mind",
+        "description": "Tells Otto to calm down, and not think so much about it"
+    },
+  {
+        "name": "!nerdvana",
+        "usage": "!nerdvana",
+        "description": "Where does otto get all these cool card sets?"
+    },
+  {
+        "name": "!nokickies",
+        "usage": "!nokickies",
+        "description": "What's this about tiktok?"
+    },
+    {
+        "name": "!onlyfans",
+        "usage": "!onlyfans",
+        "description": "Displays a link to Otto's coveted Onlyfans (j/k)"
+    },
+    {
+        "name": "!ottoboy",
+        "usage": "!ottoboy",
+        "description": "Let Otto know he's just our little ottoboy"
+    },
+  {
+        "name": "!partnerfight",
+        "usage": "!partnerfight",
+        "description": "Promote Vinyl_Viper for partner (whether they want it or not)"
+    },
+    {
+        "name": "!pc",
+        "usage": "!pc",
+        "description": "Displays otto's PC components"
+    },
+  {
+        "name": "!prime",
+        "usage": "!prime",
+        "description": "Reminder that prime subs exist, and who better to use it on than Ottomus_prime?"
+    },
+  {
+        "name": "!pronouns",
+        "usage": "!pronouns",
+        "description": "Have you heard about the pronouns extension?"
+    },
+    {
+        "name": "!quote",
+        "usage": "!quote || !quote <number>",
+        "description": "Display a random quote || display a quote by its number"
+    },
+    {
+        "name": "!rage",
+        "usage": "!rage",
+        "description": "Displays the amount of times otto has rage quit"
+    },
+  {
+        "name": "!raid",
+        "usage": "!raid",
+        "description": "Raid message (for subs)"
+    },
+  {
+        "name": "!raid2",
+        "usage": "!raid2",
+        "description": "Raid message (non-subs)"
+    },
+  {
+        "name": "!restart",
+        "usage": "!restart",
+        "description": "For restarting games such as Words on Stream (when Otto is away)"
+    },
+  {
+        "name": "!riot",
+        "usage": "!riot",
+        "description": "For use when peaceful protest is no longer an option"
+    },
+  {
+        "name": "!rip",
+        "usage": "!rip",
+        "description": "Yeah, Otto died again"
+    },
+    {
+        "name": "!schedule",
+        "usage": "!schedule",
+        "description": "Displays Otto's schedule"
+    },
+  {
+        "name": "!selfcare",
+        "usage": "!selfcare",
+        "description": "A reminder to always take care of yourself"
+    },
+  {
+        "name": "!slice",
+        "usage": "!slice",
+        "description": "(Ghost of Tsushima) Displays how many times Otto 'accidentally' sliced Nobu"
+    },
+  {
+        "name": "!socials",
+        "usage": "!socials",
+        "description": "Displays links to Otto's socials - go follow him!"
+    },
+    {
+        "name": "!stream",
+        "usage": "!stream",
+        "description": "Remind everyone that the stream belongs to the people"
+    },
+    {
+        "name": "!subhype",
+        "usage": "!subhype",
+        "description": "For use when someone subs, to let them know we love them"
+    },
+    {
+        "name": "!subs",
+        "usage": "!subs",
+        "description": "Displays the current number of subscribers"
+    },
+    {
+        "name": "!tableunflip",
+        "usage": "!tableunflip",
+        "description": "┬─┬ノ( º _ ºノ)"
+    },
+  {
+        "name": "!tall",
+        "usage": "!tall",
+        "description": "Displays how tall Otto is"
+    },
+    {
+        "name": "!tickle",
+        "usage": "!tickle <target>",
+        "description": "Tickle the target viewer"
+    },
+  {
+        "name": "!tiktok",
+        "usage": "!tiktok",
+        "description": "Dsiplays a link to Otto's tiktok - go follow him!"
+    },
+  {
+        "name": "!tip",
+        "usage": "!tip",
+        "description": "Displays a link to be used when throwing money at Otto"
+    },
+    {
+        "name": "!tophours",
+        "usage": "!tophours",
+        "description": "Display the top viewers based on hours watched"
+    },
+  {
+        "name": "!twitter",
+        "usage": "!twitter",
+        "description": "Displays a link to Otto's twitter - go follow him and retweet his stuff!"
+    },
+    {
+        "name": "!uptime",
+        "usage": "!uptime",
+        "description": "Display stream uptime"
+    },
+    {
+        "name": "!waitwhat",
+        "usage": "!waitwhat",
+        "description": "Displays the amount of times Otto has said, 'Wait, what?'"
+    },
+    {
+        "name": "!watchtime",
+        "usage": "!watchtime",
+        "description": "Displays the amount of hours you've watched the stream"
+    },
+  {
+        "name": "!weather",
+        "usage": "!weather <location>",
+        "description": "Displays the weather stats for the given location"
+    },
+  {
+        "name": "!wheel",
+        "usage": "!wheel",
+        "description": "Display information for Wheel Wednesday"
+    },
+  {
+        "name": "!wishlist",
+        "usage": "!wishlist",
+        "description": "Displays a link to Otto's wishlist"
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "commands",
+  "version": "1.0.0",
+  "description": "Conversion of commands page to NodeJS, implement admin page for editing/removing commands through a GUI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Kenesti Crowe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
