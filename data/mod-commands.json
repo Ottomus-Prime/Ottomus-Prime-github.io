@@ -131,7 +131,7 @@
 	},
 	{
 		"name": "!s2",
-		"usage": "!so <target>",
+		"usage": "!s2 <target>",
 		"description": "Shout out to the target viewer, diisplaying stream link and last played game"
 	},
   	{
